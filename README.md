@@ -21,9 +21,7 @@ Each of my experiments consisted of 3 steps: the first is the feature selection,
 
 ### multiclass classification
 
-<img width="203" alt="image" src="https://user-images.githubusercontent.com/44711173/118894711-c6a0c500-b8d2-11eb-94d9-4865d2daf5ab.png">
-
-<img width="203" alt="image" src="https://user-images.githubusercontent.com/44711173/118894730-cf919680-b8d2-11eb-92b2-11974e01da22.png">
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/44711173/118894711-c6a0c500-b8d2-11eb-94d9-4865d2daf5ab.png">  <img width="203" alt="image" src="https://user-images.githubusercontent.com/44711173/118894730-cf919680-b8d2-11eb-92b2-11974e01da22.png">
 
 ## Conclusion
 
